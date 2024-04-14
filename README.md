@@ -7,7 +7,3 @@
     - express -> routing and redirection
     - cheerio -> loads HTML stuff
 
-Package.json
--  Under scripts "test": "npm run start" is replaces with "start":"nodemon index.js"
-
-
